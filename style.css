@@ -15,7 +15,7 @@ body {
     margin-bottom: 10rem;
     background-color: aquamarine;
     border: none;
-    padding: 1rem;
+    padding: 5rem;
     border-radius: 0.5rem;
     cursor: pointer;
     font-size: 1.5rem;
@@ -23,7 +23,7 @@ body {
     transition: all 0.3s;
     &:hover { 
       background-color: rgb(236, 90, 212);
-      scale: 1.1;
+      scale: 1.9;
     }
   }
   
